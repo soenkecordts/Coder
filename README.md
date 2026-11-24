@@ -8,3 +8,7 @@
 
 {Coder for C#} uses the programming language C# (pronounced CSharp), which is easy to learn and is used for simple as well as complex object-oriented programs.
 [Coder for Python] uses the programming language Python, which is easy to learn and is used for simple as well as complex programs.
+<p/>
+<a href="https://mana-buch.de/coderPy/"><img src="https://mana-buch.de/coderPy/images/screenshot.png" width=800/></a>
+<p/>
+<a href="https://mana-buch.de/coder/"><img src="https://mana-buch.de/coder/images/screenshot.png" width=700/></a>
